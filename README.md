@@ -43,3 +43,7 @@ We will be using `Google Colab`, `Amazon Web Services`, `PostgreSQL`, and Python
 ## Summary 
 
 The majority of reviews for the video games product are coming for non-VINE participants with 40,471 non-Vine reviews while there are only 94 reviews from VINE participants. Overall, majority of the 5-Star reviews are coming from the non-VINE participants but we need to highlight that not all of the 5-Star reviews are coming from non-VINE participants. There might be a bias from the non-VINE participants but we need to perform additional analysis to have a deeper understanding. 
+
+> LinkedIn: https://www.linkedin.com/in/wilson-alexei/
+
+> Email: wils.alexei@gmail.com
